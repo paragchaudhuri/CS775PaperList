@@ -4,21 +4,21 @@ Project ideas for the advanced computer graphics course
 ## Physics-based animation
 
 1. Kitchen physics - simulate the physics and process of cooking. How to simulate a chapati rising, or simple dal-rice?
-  1. Anyone can cook (http://graphics.pixar.com/library/AnyoneCanCook/paper.pdf)
-  2. Non-newtonian fluids (http://physbam.stanford.edu/~fedkiw/papers/stanford2015-01.pdf)
+   1. Anyone can cook (http://graphics.pixar.com/library/AnyoneCanCook/paper.pdf)
+   2. Non-newtonian fluids (http://physbam.stanford.edu/~fedkiw/papers/stanford2015-01.pdf)
   
   
 2. Detailed cloth simulation from data - take the help of data to produce detailed cloth sims. Can data help with collisions too?
-  1. Subspace clothing (http://graphics.pixar.com/library/SubspaceClothing/paper.pdf)
-  2. Data-driven clothing (http://physbam.stanford.edu/~fedkiw/papers/stanford2018-03.pdf)
+   1. Subspace clothing (http://graphics.pixar.com/library/SubspaceClothing/paper.pdf)
+   2. Data-driven clothing (http://physbam.stanford.edu/~fedkiw/papers/stanford2018-03.pdf)
 
 
 3. Interactive clay sculpture
-  1. Model a character in clay, virtually (https://www.youtube.com/watch?v=pbxuFZhvl9o)
+   1. Model a character in clay, virtually (https://www.youtube.com/watch?v=pbxuFZhvl9o)
   
   
 4. Learning automatic character controllers from video - look at a person walk and replicate the walk on a character
-  1. Physics based locomotion for characters (https://www.goatstream.com/research/thesis/index.html)
+   1. Physics based locomotion for characters (https://www.goatstream.com/research/thesis/index.html)
  
  
  
