@@ -17,8 +17,7 @@ Project ideas for the advanced computer graphics course
 4. Learning automatic character controllers from video - look at a person walk and replicate the walk on a character
    1. Physics based locomotion for characters (https://www.goatstream.com/research/thesis/index.html)
  
- 
- 
+  
 ## Art
 
 1. Can your algorithm paint like Rembrandt? How about Raja Ravi Verma (https://en.wikipedia.org/wiki/Raja_Ravi_Varma)?
@@ -26,3 +25,10 @@ Project ideas for the advanced computer graphics course
   
 2. Simulating painting
    1. Wetbrush: GPU-based 3D painting simulation at the bristle level (http://www.zhilichen.com/projects/#wetbrush-pub)
+
+
+## Augmented Reality
+
+1. Create your own version of augmented reality treasure hunt on campus - clues can be a mix of real and virtual 
+   1. Get inspired by the AR gaming sensation: Pokemon Go (https://www.pokemongo.com/en-us/)
+  
