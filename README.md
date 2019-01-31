@@ -25,8 +25,8 @@ Project ideas for the advanced computer graphics course
 ## Art
 
 1. Can your algorithm paint like Rembrandt? How about Raja Ravi Verma (https://en.wikipedia.org/wiki/Raja_Ravi_Varma)?
-  - https://www.nextrembrandt.com/
+  1. https://www.nextrembrandt.com/
   
   
 2. Simulating painting
-  - Wetbrush: GPU-based 3D painting simulation at the bristle level (http://www.zhilichen.com/projects/#wetbrush-pub)
+  1. Wetbrush: GPU-based 3D painting simulation at the bristle level (http://www.zhilichen.com/projects/#wetbrush-pub)
