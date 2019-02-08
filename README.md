@@ -25,6 +25,9 @@ Project ideas for the advanced computer graphics course
   
 2. Simulating painting
    1. Wetbrush: GPU-based 3D painting simulation at the bristle level (http://www.zhilichen.com/projects/#wetbrush-pub)
+   
+3. Auto generating Motion Comics
+   1. https://en.wikipedia.org/wiki/Motion_comic
 
 
 ## Augmented Reality
@@ -32,3 +35,23 @@ Project ideas for the advanced computer graphics course
 1. Create your own version of augmented reality treasure hunt on campus - clues can be a mix of real and virtual 
    1. Get inspired by the AR gaming sensation: Pokemon Go (https://www.pokemongo.com/en-us/)
   
+  
+## Character Animation
+
+1. Learning by mimicing - DeepMimic
+   1. https://xbpeng.github.io/projects/DeepMimic/index.html
+   
+2. Neural networks for character control
+   1. http://theorangeduck.com/page/phase-functioned-neural-networks-character-control
+   
+   
+## Rendering
+
+1. Deep Shading: Convolutional Neural Networks for Screen-Space Shading
+   1. https://arxiv.org/pdf/1603.06078.pdf
+2. Render for CNN Viewpoint estimation
+   1. https://shapenet.cs.stanford.edu/projects/RenderForCNN/
+3. Realistic rendering of human skin
+   1. https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_ch14.html
+4. Raytacing in curved spacetime
+   1. https://www.cse.iitb.ac.in/~paragc/research/curved_st/
