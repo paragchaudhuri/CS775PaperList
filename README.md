@@ -20,7 +20,7 @@ Project ideas for the advanced computer graphics course
 ## Modelling
 
 1. Computational modelling
-   1. Lego technic deisgn (https://appsrv.cse.cuhk.edu.hk/~haoxu/projects/compute_technic/)
+   1. Lego technic design (https://appsrv.cse.cuhk.edu.hk/~haoxu/projects/compute_technic/)
   
 ## Art
 
