@@ -17,6 +17,10 @@ Project ideas for the advanced computer graphics course
 4. Learning automatic character controllers from video - look at a person walk and replicate the walk on a character
    1. Physics based locomotion for characters (https://www.goatstream.com/research/thesis/index.html)
  
+## Modelling
+
+1. Computational modelling
+   1. Lego technic deisgn (https://appsrv.cse.cuhk.edu.hk/~haoxu/projects/compute_technic/)
   
 ## Art
 
@@ -34,6 +38,8 @@ Project ideas for the advanced computer graphics course
 
 1. Create your own version of augmented reality treasure hunt on campus - clues can be a mix of real and virtual 
    1. Get inspired by the AR gaming sensation: Pokemon Go (https://www.pokemongo.com/en-us/)
+2. Drawing in AR
+   1. Create your own SketchAR (https://sketchar.tech/) or 
   
   
 ## Character Animation
@@ -53,5 +59,5 @@ Project ideas for the advanced computer graphics course
    1. https://shapenet.cs.stanford.edu/projects/RenderForCNN/
 3. Realistic rendering of human skin
    1. https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_ch14.html
-4. Raytacing in curved spacetime
+4. Raytracing in curved spacetime
    1. https://www.cse.iitb.ac.in/~paragc/research/curved_st/
