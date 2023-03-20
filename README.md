@@ -13,10 +13,12 @@ Project ideas for the advanced computer graphics course
 
 3. Fluid Simulation 
    1. Covector Fluids (SIGGRAPH 2022) - Simulates Euler equations for inviscid fluids by using a novel formulation based on covectors.
-   Paper: https://cseweb.ucsd.edu/~ravir/covectorfluids.pdf
-   2. Unified Particle System for Multiple-fluid Flow and Porous Material (SIGGRAPH 2021) - An SPH-based simulation scheme for multiple-fluid liquid flow interacting with sponge-like porous materials. Paper: https://dl.acm.org/doi/pdf/10.1145/3450626.3459764
+   (https://cseweb.ucsd.edu/~ravir/covectorfluids.pdf)
+   2. Unified Particle System for Multiple-fluid Flow and Porous Material (SIGGRAPH 2021) - An SPH-based simulation scheme for multiple-fluid liquid flow interacting with sponge-like porous materials. 
+   (https://dl.acm.org/doi/pdf/10.1145/3450626.3459764)
    3. Lagrangian Neural Style Transfer for Fluids (SIGGRAPH 2020) - A neural style transfer approach from images to 3D fluids formulated in a
-Lagrangian viewpoint. Paper: https://arxiv.org/pdf/2005.00803.pdf
+Lagrangian viewpoint.
+   (https://arxiv.org/pdf/2005.00803.pdf)
 
  
 ## Modelling
@@ -28,12 +30,16 @@ Lagrangian viewpoint. Paper: https://arxiv.org/pdf/2005.00803.pdf
 
 1. Can your algorithm paint like Rembrandt? How about Raja Ravi Verma (https://en.wikipedia.org/wiki/Raja_Ravi_Varma)?
    1. https://www.nextrembrandt.com/
-  
 2. Simulating painting
    1. Wetbrush: GPU-based 3D painting simulation at the bristle level (http://www.zhilichen.com/projects/#wetbrush-pub)
-   
-3. Auto generating Motion Comics
-   1. https://en.wikipedia.org/wiki/Motion_comic
+3. VToonify: Controllable High-Resolution Portrait Video Style Transfer (SIGGRAPH Asia 2022) - A framework for style controllable high-resolution video toonification.
+(https://arxiv.org/pdf/2209.11224.pdf)
+4. CLIPasso: Semantically Aware Object Sketching (SIGGRAPH 2022) - A method for sketching objects at different levels of abstraction. The abstraction degree is controlled by varying the number of strokes.
+(https://arxiv.org/abs/2202.05822)
+5. ARF: Artistic Radiance Fields (ECCV 2022)
+Description: Method for reconstructing artistic radiance fields from photorealistic radiance fields given user-specified style exemplars.
+(https://arxiv.org/pdf/2206.06360.pdf)
+
 
 
 ## Augmented Reality
