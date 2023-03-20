@@ -23,7 +23,7 @@ Lagrangian viewpoint.
  
 ## Modelling
 
-1. Lego technic design (https://appsrv.cse.cuhk.edu.hk/~haoxu/projects/compute_technic/)
+1. Lego technic design (https://web.archive.org/web/20210926180746/https://appsrv.cse.cuhk.edu.hk/~haoxu/projects/compute_technic/)
 2. Authoring Consistent Landscapes With Flora and Fauna (SIGGRAPH 2021) - The algorithm outputs a steady-state ecosystem in the form of density maps for each species, their daily circuits, and a modified terrain with eroded trails from a terrain, climatic conditions, and species with related biological information. (https://dl.acm.org/doi/pdf/10.1145/3450626.3459952)
 
   
