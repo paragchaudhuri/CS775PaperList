@@ -1,5 +1,5 @@
-# CS775 Project Ideas
-Project ideas for the advanced computer graphics course
+# CS775 Paper Reading Ideas
+Paper reading ideas for the advanced computer graphics course
 
 ## Physics-based animation
 
