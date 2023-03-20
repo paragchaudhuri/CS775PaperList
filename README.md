@@ -10,12 +10,14 @@ Project ideas for the advanced computer graphics course
 2. Detailed cloth simulation from data - take the help of data to produce detailed cloth sims. Can data help with collisions too?
    1. Subspace clothing (http://graphics.pixar.com/library/SubspaceClothing/paper.pdf)
    2. Data-driven clothing (http://physbam.stanford.edu/~fedkiw/papers/stanford2018-03.pdf)
-   
-3. Interactive clay sculpture
-   1. Model a character in clay, virtually (https://www.youtube.com/watch?v=pbxuFZhvl9o)
-  
-4. Learning automatic character controllers from video - look at a person walk and replicate the walk on a character
-   1. Physics based locomotion for characters (https://www.goatstream.com/research/thesis/index.html)
+
+3. Fluid Simulation 
+   1. Covector Fluids (SIGGRAPH 2022) - Simulates Euler equations for inviscid fluids by using a novel formulation based on covectors.
+   Paper: https://cseweb.ucsd.edu/~ravir/covectorfluids.pdf
+   2. Unified Particle System for Multiple-fluid Flow and Porous Material (SIGGRAPH 2021) - An SPH-based simulation scheme for multiple-fluid liquid flow interacting with sponge-like porous materials. Paper: https://dl.acm.org/doi/pdf/10.1145/3450626.3459764
+   3. Lagrangian Neural Style Transfer for Fluids (SIGGRAPH 2020) - A neural style transfer approach from images to 3D fluids formulated in a
+Lagrangian viewpoint. Paper: https://arxiv.org/pdf/2005.00803.pdf
+
  
 ## Modelling
 
