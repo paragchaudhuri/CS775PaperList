@@ -28,15 +28,13 @@ Lagrangian viewpoint.
   
 ## Art
 
-1. Can your algorithm paint like Rembrandt? How about Raja Ravi Verma (https://en.wikipedia.org/wiki/Raja_Ravi_Varma)?
-   1. https://www.nextrembrandt.com/
-2. Simulating painting
+1. Simulating painting
    1. Wetbrush: GPU-based 3D painting simulation at the bristle level (http://www.zhilichen.com/projects/#wetbrush-pub)
-3. VToonify: Controllable High-Resolution Portrait Video Style Transfer (SIGGRAPH Asia 2022) - A framework for style controllable high-resolution video toonification.
+2. VToonify: Controllable High-Resolution Portrait Video Style Transfer (SIGGRAPH Asia 2022) - A framework for style controllable high-resolution video toonification.
 (https://arxiv.org/pdf/2209.11224.pdf)
-4. CLIPasso: Semantically Aware Object Sketching (SIGGRAPH 2022) - A method for sketching objects at different levels of abstraction. The abstraction degree is controlled by varying the number of strokes.
+3. CLIPasso: Semantically Aware Object Sketching (SIGGRAPH 2022) - A method for sketching objects at different levels of abstraction. The abstraction degree is controlled by varying the number of strokes.
 (https://arxiv.org/abs/2202.05822)
-5. ARF: Artistic Radiance Fields (ECCV 2022)
+4. ARF: Artistic Radiance Fields (ECCV 2022)
 Description: Method for reconstructing artistic radiance fields from photorealistic radiance fields given user-specified style exemplars.
 (https://arxiv.org/pdf/2206.06360.pdf)
 
